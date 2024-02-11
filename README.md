@@ -11,4 +11,5 @@ Liste des fichiers c++/js:
 
 # Étape
 
-- Compiler les codes c++ en WebAssembly
+- Compiler les codes c++ en WebAssembly en appliquant les commandes make à partir du makefile
+- 
