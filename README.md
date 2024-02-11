@@ -14,5 +14,7 @@ Liste des fichiers c++/js:
 - Compiler les codes c++ en WebAssembly en appliquant les commandes make à partir du makefile
 - Exécuter les commandes make à partir du makefile pour pouvoir exécuter les programmes JavaScript et WebAssembly
 - Analyser les résultats et comparer les performances des programmes
+
+
 Dans notre cas nous comparons la taille des fichiers, puis le temps qui a été utilisé afin d'exécuter le programme
 
