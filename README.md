@@ -18,3 +18,5 @@ Liste des fichiers c++/js:
 
 Dans notre cas nous comparons la taille des fichiers, puis le temps qui a été utilisé afin d'exécuter le programme
 
+# Reference
+-Lemire, [WebAssemblyVSJavaScript](https://github.com/lemire/WebAssemblyVSJavaScript)
