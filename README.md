@@ -5,6 +5,6 @@ On a comparé trois fichier distintc écrit en language c++ puis l'équivalent d
 
 Liste des fichiers c++/js:
 
--comptage_occurences
--comparaison_somme
--cubes_parfaits
+- comptage_occurences
+- comparaison_somme
+- cubes_parfaits
