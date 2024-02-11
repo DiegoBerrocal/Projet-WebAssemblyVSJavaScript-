@@ -8,3 +8,7 @@ Liste des fichiers c++/js:
 - comptage_occurences
 - comparaison_somme
 - cubes_parfaits
+
+# Étape
+
+- Compiler les codes c++ en WebAssembly
